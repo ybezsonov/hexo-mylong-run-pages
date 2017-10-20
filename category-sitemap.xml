@@ -7,11 +7,17 @@
     </url>
 
     <url>
-        <loc>http://mylong.run/2017/10/15/1-almetal-marathon/</loc>
+        <loc>http://mylong.run/categories/race/</loc>
         <lastmod>2017-10-20T10:50:59.573Z</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.2</priority>
+    </url>
 
+    <url>
+        <loc>http://mylong.run/categories/race/running/</loc>
+        <lastmod>2017-10-20T10:50:59.573Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
     </url>
 
 </urlset>
